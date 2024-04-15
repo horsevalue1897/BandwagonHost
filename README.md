@@ -30,11 +30,12 @@
 
 
 
+
 <a href="https://bwh81.net/aff.php?aff=74518&pid=57" target="_blank">
   <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/364e3efa-a818-4933-bb3f-b7765d219950" alt="First Image" width="30%">
 </a>
 <a href="https://bwh81.net/aff.php?aff=74518&pid=87" target="_blank">
-  <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/e5ab696b-c3bc-4b50-b59e-011828700cab" alt="Second Image" width="30%">
+  <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/6edd1b32-1bc6-41db-b583-f904e762a81d" alt="Second Image" width="40%">
 </a>
 <a href="https://bwh81.net/aff.php?aff=74518&pid=95" target="_blank">
   <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/292c1d31-ccca-4bc9-ab0c-0bff55b1c911" alt="Third Image" width="30%">
