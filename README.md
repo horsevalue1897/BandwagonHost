@@ -28,11 +28,12 @@
 > 温馨提醒：若您在选择上有疑问，推荐直接选择 CN2 GIA-E方案，季付 $49.99，可在 12 个机房间自由切换。
 
 
+
 <a href="https://bwh81.net/aff.php?aff=74518&pid=57" target="_blank">
   <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/364e3efa-a818-4933-bb3f-b7765d219950" alt="First Image" width="30%">
 </a>
 <a href="https://bwh81.net/aff.php?aff=74518&pid=87" target="_blank">
-  <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/b2227d31-119c-41f7-a490-2f2201d8c8ac" alt="Second Image" width="30%">
+  <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/5cf64d25-3998-4eb5-a46a-1cf20dee6f94" alt="Second Image" width="30%">
 </a>
 <a href="https://bwh81.net/aff.php?aff=74518&pid=95" target="_blank">
   <img src="https://github.com/horsevalue1897/BandwagonHost/assets/157679849/292c1d31-ccca-4bc9-ab0c-0bff55b1c911" alt="Third Image" width="30%">
